@@ -1,0 +1,53 @@
+---
+title: "Spam Detection Project"
+author: "Xinru Zhao, Wenqi Wang, Sanya Wang, Yixi Cheng, Yuh-Shin Yen"
+date: "2025-3-19"
+image: images/image.png
+description: "A spam detection project with an interactive interface"
+format:
+  html:
+    theme: cosmo
+about:
+  template: marquee
+  links:
+    - icon: database
+      text: DataSource
+      href: https://www.kaggle.com/datasets/mariumfaheem666/spam-sms-classification-using-nlp
+    - icon: code
+      text: ProjectCode
+      href: https://colab.research.google.com/drive/1iLqR0bMFGgY7G4NggkziqsIYwyfOog1H?usp=sharing 
+  
+---
+Published time is the Project End Date.
+
+# Introduction
+
+This project aims to build a machine learning model to detect SMS messages as spam or ham (non-spam). Spam messages are growing fast in recent years, and they can be risky. So, detecting them is important. This project uses Natural Language Processing (NLP) methods.We test different classifiers. We also use Synthetic Minority Oversampling Technique (SMOTE) to fix class imbalance.
+
+We evaluate model performance using metrics such as accuracy, precision, recall, F1-score, and AUC. Naïve Bayes with TF-IDF (unigram + bigram + trigram) works best. We also build a live demo to show how the model detects spam in real time.
+
+
+# Data Overview
+
+![Key Variables and Description](images/key_variables.png)
+
+# Word Cloud
+
+![Spam Word Cloud](images/spamWC.png)
+
+# Topic Words in Spam Message
+
+![Top 10 words in spam messages](images/wordsinspam.png)
+
+# Final Model
+
+![Final Model selection](images/prcurve.png)
+
+# For more detail information, please go to "projectcode" button to check.
+
+# Thank You!!
+
+
+
+
+

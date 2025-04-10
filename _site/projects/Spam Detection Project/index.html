@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Xinru Zhao, Wenqi Wang, Sanya Wang, Yixi Cheng, Yuh-Shin Yen">
+<meta name="dcterms.date" content="2025-03-19">
+<meta name="description" content="A spam detection project with an interactive interface">
 
-<title>Xinru Zhao – Xinru Zhao Portfolio</title>
+<title>Spam Detection Project – Xinru Zhao Portfolio</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,21 +26,21 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-cc6233b92224f1fae17ecbede1994a6f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-cc6233b92224f1fae17ecbede1994a6f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,17 +70,17 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Xinru Zhao Portfolio</span>
     </a>
   </div>
@@ -88,15 +91,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects/"> 
+    <a class="nav-link" href="../../projects/"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog.html"> 
+    <a class="nav-link" href="../../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
@@ -110,33 +113,114 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#data-overview" id="toc-data-overview" class="nav-link" data-scroll-target="#data-overview">Data Overview</a></li>
+  <li><a href="#word-cloud" id="toc-word-cloud" class="nav-link" data-scroll-target="#word-cloud">Word Cloud</a></li>
+  <li><a href="#topic-words-in-spam-message" id="toc-topic-words-in-spam-message" class="nav-link" data-scroll-target="#topic-words-in-spam-message">Topic Words in Spam Message</a></li>
+  <li><a href="#final-model" id="toc-final-model" class="nav-link" data-scroll-target="#final-model">Final Model</a></li>
+  <li><a href="#for-more-detail-information-please-go-to-projectcode-button-to-check." id="toc-for-more-detail-information-please-go-to-projectcode-button-to-check." class="nav-link" data-scroll-target="#for-more-detail-information-please-go-to-projectcode-button-to-check.">For more detail information, please go to “projectcode” button to check.</a></li>
+  <li><a href="#thank-you" id="toc-thank-you" class="nav-link" data-scroll-target="#thank-you">Thank You!!</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<div class="quarto-about-jolla">
-  <img src="images/Headshot.jpg" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-marquee">
+  <div class="about-image-container">
+    <img src="images/image.png" class="about-image " style="width: 100%;">
+  </div>
+  <div class="about-contents">
+    <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Xinru Zhao</h1>
+<h1 class="title">Spam Detection Project</h1>
+</div>
+<div>
+  <div class="description">
+    A spam detection project with an interactive interface
+  </div>
 </div>
 <div class="quarto-title-meta">
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Xinru Zhao, Wenqi Wang, Sanya Wang, Yixi Cheng, Yuh-Shin Yen </p>
+          </div>
   </div>
-</header><main class="content" id="quarto-document-content">
-<p>Enter your biography blurb here.</p>
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 19, 2025</p>
+    </div>
+  </div>
+  </div>
+</header> <main class="content" id="quarto-document-content">
+
+<p>Published time is the Project End Date.</p>
+<section id="introduction" class="level1">
+<h1>Introduction</h1>
+<p>This project aims to build a machine learning model to detect SMS messages as spam or ham (non-spam). Spam messages are growing fast in recent years, and they can be risky. So, detecting them is important. This project uses Natural Language Processing (NLP) methods.We test different classifiers. We also use Synthetic Minority Oversampling Technique (SMOTE) to fix class imbalance.</p>
+<p>We evaluate model performance using metrics such as accuracy, precision, recall, F1-score, and AUC. Naïve Bayes with TF-IDF (unigram + bigram + trigram) works best. We also build a live demo to show how the model detects spam in real time.</p>
+</section>
+<section id="data-overview" class="level1">
+<h1>Data Overview</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/key_variables.png" class="img-fluid figure-img"></p>
+<figcaption>Key Variables and Description</figcaption>
+</figure>
+</div>
+</section>
+<section id="word-cloud" class="level1">
+<h1>Word Cloud</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/spamWC.png" class="img-fluid figure-img"></p>
+<figcaption>Spam Word Cloud</figcaption>
+</figure>
+</div>
+</section>
+<section id="topic-words-in-spam-message" class="level1">
+<h1>Topic Words in Spam Message</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/wordsinspam.png" class="img-fluid figure-img"></p>
+<figcaption>Top 10 words in spam messages</figcaption>
+</figure>
+</div>
+</section>
+<section id="final-model" class="level1">
+<h1>Final Model</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/prcurve.png" class="img-fluid figure-img"></p>
+<figcaption>Final Model selection</figcaption>
+</figure>
+</div>
+</section>
+<section id="for-more-detail-information-please-go-to-projectcode-button-to-check." class="level1">
+<h1>For more detail information, please go to “projectcode” button to check.</h1>
+</section>
+<section id="thank-you" class="level1">
+<h1>Thank You!!</h1>
 
 
+</section>
 </main> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="https://www.linkedin.com/in/violetzhaoxr/" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
+    <div class="about-footer"><div class="about-links">
+  <a href="https://www.kaggle.com/datasets/mariumfaheem666/spam-sms-classification-using-nlp" class="about-link" rel="" target="">
+    <i class="bi bi-database"></i>
+     <span class="about-link-text">DataSource</span>
   </a>
-  <a href="https://github.com/Violet-zheart" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
+  <a href="https://colab.research.google.com/drive/1iLqR0bMFGgY7G4NggkziqsIYwyfOog1H?usp=sharing" class="about-link" rel="" target="">
+    <i class="bi bi-code"></i>
+     <span class="about-link-text">ProjectCode</span>
   </a>
 </div>
+</div>
+  </div>
 </div>
  <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
