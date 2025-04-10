@@ -1,5 +1,5 @@
 ---
-title: "Spam Detection Project"
+title: "Spam Detection"
 author: "Xinru Zhao, Wenqi Wang, Sanya Wang, Yixi Cheng, Yuh-Shin Yen"
 date: "2025-3-19"
 image: images/image.png
@@ -18,7 +18,10 @@ about:
       href: https://colab.research.google.com/drive/1iLqR0bMFGgY7G4NggkziqsIYwyfOog1H?usp=sharing 
   
 ---
-Published time is the Project End Date.
+"Published time"is the time the project finished.
+
+This is the report. [Report](Report/report.pdf)
+
 
 # Introduction
 

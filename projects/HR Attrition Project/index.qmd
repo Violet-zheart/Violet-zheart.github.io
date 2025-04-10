@@ -1,0 +1,23 @@
+---
+title: "Employee Retention & Performance Analysis for HR Decision-Making"
+author: "Xinru(Violet) Zhao, Kohsuke(Cody) Asano, Shin(Avery) Yang, Philip Tong, Pratiksha Gund"
+date: "2024-12-06"
+image: images/coverpage.png
+description: "A spam detection project with an interactive interface"
+format:
+  html:
+    theme: cosmo
+about:
+  template: marquee
+  links:
+    - icon: database
+      text: DataSource
+      href:  https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+    - icon: code
+      text: ProjectCode
+      href: https://drive.google.com/file/d/1l4El12OiZViX5n1uL4Xsvo5g8Tke1AgS/view?usp=sharing
+  
+---
+"Published time"is the time the project finished.
+
+This is the report. [Report](report/report.pdf)
