@@ -119,11 +119,11 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
   <li><a href="#data-overview" id="toc-data-overview" class="nav-link" data-scroll-target="#data-overview">Data Overview</a></li>
-  <li><a href="#word-cloud" id="toc-word-cloud" class="nav-link" data-scroll-target="#word-cloud">Word Cloud</a></li>
-  <li><a href="#topic-words-in-spam-message" id="toc-topic-words-in-spam-message" class="nav-link" data-scroll-target="#topic-words-in-spam-message">Topic Words in Spam Message</a></li>
-  <li><a href="#final-model" id="toc-final-model" class="nav-link" data-scroll-target="#final-model">Final Model</a></li>
-  <li><a href="#for-more-detail-information-please-go-to-projectcode-button-to-check." id="toc-for-more-detail-information-please-go-to-projectcode-button-to-check." class="nav-link" data-scroll-target="#for-more-detail-information-please-go-to-projectcode-button-to-check.">For more detail information, please go to “projectcode” button to check.</a></li>
+  <li><a href="#final-model" id="toc-final-model" class="nav-link" data-scroll-target="#final-model">Final Model</a>
+  <ul class="collapse">
+  <li><a href="#for-more-detail-information-please-click-projectcode-and-report-to-check." id="toc-for-more-detail-information-please-click-projectcode-and-report-to-check." class="nav-link" data-scroll-target="#for-more-detail-information-please-click-projectcode-and-report-to-check.">For more detail information, please click “projectcode” and “report” to check.</a></li>
   <li><a href="#thank-you" id="toc-thank-you" class="nav-link" data-scroll-target="#thank-you">Thank You!!</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -158,12 +158,10 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </header> <main class="content" id="quarto-document-content">
 
-<p>“Published time”is the time the project finished.</p>
-<p>This is the report. <a href="Report/report.pdf">Report</a></p>
 <section id="introduction" class="level1">
 <h1>Introduction</h1>
 <p>This project aims to build a machine learning model to detect SMS messages as spam or ham (non-spam). Spam messages are growing fast in recent years, and they can be risky. So, detecting them is important. This project uses Natural Language Processing (NLP) methods.We test different classifiers. We also use Synthetic Minority Oversampling Technique (SMOTE) to fix class imbalance.</p>
-<p>We evaluate model performance using metrics such as accuracy, precision, recall, F1-score, and AUC. Naïve Bayes with TF-IDF (unigram + bigram + trigram) works best. We also build a live demo to show how the model detects spam in real time.</p>
+<p>We evaluate model performance using metrics such as accuracy, precision, recall, F1-score, and AUC. Naïve Bayes with TF-IDF and N-gram models(unigram + bigram + trigram) works best. We also build a live demo to show how the model detects spam in real time.(in project code)</p>
 </section>
 <section id="data-overview" class="level1">
 <h1>Data Overview</h1>
@@ -173,24 +171,10 @@ ul.task-list li input[type="checkbox"] {
 <figcaption>Key Variables and Description</figcaption>
 </figure>
 </div>
-</section>
-<section id="word-cloud" class="level1">
-<h1>Word Cloud</h1>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/spamWC.png" class="img-fluid figure-img"></p>
-<figcaption>Spam Word Cloud</figcaption>
-</figure>
-</div>
-</section>
-<section id="topic-words-in-spam-message" class="level1">
-<h1>Topic Words in Spam Message</h1>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/wordsinspam.png" class="img-fluid figure-img"></p>
-<figcaption>Top 10 words in spam messages</figcaption>
-</figure>
-</div>
+<!-- # Word Cloud
+![Spam Word Cloud](images/spamWC.png)
+# Topic Words in Spam Message
+![Top 10 words in spam messages](images/wordsinspam.png) -->
 </section>
 <section id="final-model" class="level1">
 <h1>Final Model</h1>
@@ -200,14 +184,14 @@ ul.task-list li input[type="checkbox"] {
 <figcaption>Final Model selection</figcaption>
 </figure>
 </div>
+<section id="for-more-detail-information-please-click-projectcode-and-report-to-check." class="level2">
+<h2 data-anchor-id="for-more-detail-information-please-click-projectcode-and-report-to-check.">For more detail information, please click “projectcode” and “report” to check.</h2>
 </section>
-<section id="for-more-detail-information-please-go-to-projectcode-button-to-check." class="level1">
-<h1>For more detail information, please go to “projectcode” button to check.</h1>
-</section>
-<section id="thank-you" class="level1">
-<h1>Thank You!!</h1>
+<section id="thank-you" class="level2">
+<h2 data-anchor-id="thank-you">Thank You!!</h2>
 
 
+</section>
 </section>
 </main> 
     <div class="about-footer"><div class="about-links">
@@ -218,6 +202,10 @@ ul.task-list li input[type="checkbox"] {
   <a href="https://colab.research.google.com/drive/1iLqR0bMFGgY7G4NggkziqsIYwyfOog1H?usp=sharing" class="about-link" rel="" target="">
     <i class="bi bi-code"></i>
      <span class="about-link-text">ProjectCode</span>
+  </a>
+  <a href="/Report/report.pdf" class="about-link" rel="" target="">
+    <i class="bi bi-file"></i>
+     <span class="about-link-text">report</span>
   </a>
 </div>
 </div>

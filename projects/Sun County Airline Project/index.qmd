@@ -1,0 +1,28 @@
+---
+title: "SUN COUNTRY AIRLINES CASE PROJECT"
+author: "Xinru(Violet) Zhao, Kohsuke(Cody) Asano, Shin(Avery) Yang, Philip Tong, Pratiksha Gund"
+date: "2024-9-08"
+image: images/cover.png
+description: "A spam detection project with an interactive interface"
+format:
+  html:
+    theme: cosmo
+about:
+  template: marquee
+  links:
+    - icon: file
+      text: report
+      href:  report/report.pdf
+  
+---
+# Introduction
+
+Sun Country Airlines, a regional carrier, is at a pivotal stage in its development, where strategic use of technology and customer data will play a critical role in shaping its future. Therefore, Warnken, Sun Country's manager, recognizing the limitations of competing solely on price against larger carriers, emphasizes the need for a deeper understanding of customer preferences. His vision is to create unique value propositions, such as vacation packages, that appeal to customers and are diBicult for competitors to replicate. The other manager, Vaughan, she highlights the need to align the online booking channels with the expectations of modern travelers while also driving engagement in the airline’s loyalty program, Ufly Rewards. She aims to refine their digital platforms, making them more user-centric and eBective in converting frequent travelers into loyal members.
+
+# Description of dataset and methods
+
+The existing data was from January 2013 to December 2014, including Ufly Reward program database, TSA (Transportation Security Administration) flight records, transaction-level data, etc. There were 37 columns and 26575 rows, which is enough to conduct our analysis with higher accuracy. The methods we use are Cluster Analysis with K-means and Visualization with Excel, Python and Power BI. Cluster Analysis can help to cluster customers into diBerent groups with similarities, so that we can develop insights to specific market segments, through which we can achieve Precision Marketing. Visualization can be a direct way with charts or graphs to help analysts to describe and compare segments, getting marketing recommendations or insights.
+
+## For more detail information, please click "report" to check.
+
+## Thank You!!

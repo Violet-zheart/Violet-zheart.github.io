@@ -3,7 +3,7 @@ title: "Employee Retention & Performance Analysis for HR Decision-Making"
 author: "Xinru(Violet) Zhao, Kohsuke(Cody) Asano, Shin(Avery) Yang, Philip Tong, Pratiksha Gund"
 date: "2024-12-06"
 image: images/coverpage.png
-description: "A spam detection project with an interactive interface"
+description: "Employee and HR Analytics: A Predictive Modeling Approach on Attrition"
 format:
   html:
     theme: cosmo
@@ -16,8 +16,25 @@ about:
     - icon: code
       text: ProjectCode
       href: https://drive.google.com/file/d/1l4El12OiZViX5n1uL4Xsvo5g8Tke1AgS/view?usp=sharing
+    - icon: file
+      text: report
+      href: report/report.pdf
   
 ---
-"Published time"is the time the project finished.
+# Introduction
 
-This is the report. [Report](report/report.pdf)
+Employee retention is a critical challenge for organizations, as high turnover rates can disrupt operations, increase recruitment and training costs, and negatively impact team dynamics and morale. Addressing this issue is vital for maintaining a stable workforce and ensuring organizational success. The business idea underpinning this analysis focuses on leveraging data-driven insights to proactively identify at-risk employees and implement effective retention strategies. 
+
+This study utilizes the IBM HR Analytics Employee Attrition & Performance dataset, which includes detailed information related to employee retention across 35 attributes. These attributes span various dimensions such as environmental satisfaction, compensation, and job performance ratings with an “Attrition” variable, indicating whether an employee has left the company, making it an ideal resource for analyzing turnover trends. The importance of this project lies in its potential to address a pressing business problem by combining advanced analytical techniques with real-world HR data. Organizations today face increasing competition for talent, and understanding the drivers of employee attrition is crucial for retaining top performers and maintaining a competitive edge. Through the application of machine learning models such as Random Forest, Logistic Regression, and K-Nearest Neighbors (KNN), this analysis aims to build a robust predictive framework for identifying attrition risk. These methods allow us to uncover key patterns in employee behavior, identify influential factors contributing to turnover, and offer actionable recommendations to help HR departments enhance employee retention and overall organizational stability.
+
+
+# Data Overview
+
+![Key Variables and Description1](images/description1.png)
+![Key Variables and Description2](images/description2.png)
+
+## For more detail information, please click "projectcode" and "report" to check.
+
+## Thank You!!
+
+
