@@ -2,7 +2,7 @@
 title: "Employee Retention & Performance Analysis for HR Decision-Making"
 author: "Xinru(Violet) Zhao, Kohsuke(Cody) Asano, Shin(Avery) Yang, Philip Tong, Pratiksha Gund"
 date: "2024-12-06"
-image: images/coverpage.png
+image: images/cover.png
 description: "Employee and HR Analytics: A Predictive Modeling Approach on Attrition"
 format:
   html:

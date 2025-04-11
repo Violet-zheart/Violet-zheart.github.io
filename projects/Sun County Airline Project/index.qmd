@@ -3,7 +3,7 @@ title: "SUN COUNTRY AIRLINES CASE PROJECT"
 author: "Xinru(Violet) Zhao, Kohsuke(Cody) Asano, Shin(Avery) Yang, Philip Tong, Pratiksha Gund"
 date: "2024-9-08"
 image: images/cover.png
-description: "A spam detection project with an interactive interface"
+description: "A project to figure out some valuable insights based on marketing segmentation using K-means methods and visualization tools"
 format:
   html:
     theme: cosmo
@@ -22,6 +22,10 @@ Sun Country Airlines, a regional carrier, is at a pivotal stage in its developme
 # Description of dataset and methods
 
 The existing data was from January 2013 to December 2014, including Ufly Reward program database, TSA (Transportation Security Administration) flight records, transaction-level data, etc. There were 37 columns and 26575 rows, which is enough to conduct our analysis with higher accuracy. The methods we use are Cluster Analysis with K-means and Visualization with Excel, Python and Power BI. Cluster Analysis can help to cluster customers into diBerent groups with similarities, so that we can develop insights to specific market segments, through which we can achieve Precision Marketing. Visualization can be a direct way with charts or graphs to help analysts to describe and compare segments, getting marketing recommendations or insights.
+
+# Clustring
+
+![Clustring Graph](images/cluster.png)
 
 ## For more detail information, please click "report" to check.
 
