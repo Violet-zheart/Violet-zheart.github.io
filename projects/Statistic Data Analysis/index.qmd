@@ -1,5 +1,5 @@
 ---
-title: "STATISTICAL DATA ANALYSIS PROJECT"
+title: "Sratistical Data Analysis Project"
 author: "Xinru(Violet) Zhao, Kohsuke(Cody) Asano, Shin(Avery) Yang, Philip Tong, Pratiksha Gund"
 date: "2024-9-08"
 image: images/image.png

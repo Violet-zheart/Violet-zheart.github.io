@@ -12,3 +12,12 @@ about:
       href: images/resume0408.pdf
 ---
 
+
+Hi, there! This is my website sharing the projects I've finished. Feel free to check! Thank You!!
+
+# About me
+I’m a Business Analytics student at UC Irvine’s Paul Merage School, with expertise in statistical analysis, operations analytics, and marketing foundations. Previously, I worked at a manufacturing company, collecting and analyzing review data from brands like JAC FORD and BYD. 
+
+Through school projects, I’ve strengthened my data analytics skills and marketing knowledge, focusing on analyzing consumer behavior to extract insights from large datasets. I’m passionate about leveraging these skills in the media and entertainment or CPG industries to support company growth. Open to opportunities where I can apply my analytical abilities. Connect with me!
+
+

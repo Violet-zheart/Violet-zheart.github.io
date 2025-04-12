@@ -1,5 +1,5 @@
 ---
-title: "Spam Detection"
+title: "Spam Detection Project"
 author: "Xinru Zhao, Wenqi Wang, Sanya Wang, Yixi Cheng, Yuh-Shin Yen"
 date: "2025-3-19"
 image: images/cover.png

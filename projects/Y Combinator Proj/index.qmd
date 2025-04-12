@@ -1,0 +1,33 @@
+---
+title: "Y Combinator Startup Project"
+author: "Xinru(Violet) Zhao, Gaohan(Hannah) Lin, Wenqi(Vicky) Wang, Yanan Sun"
+date: "2025-3-19"
+image: images/cover.png
+description: "A project to figure out key features of the succussful startup companies under Y Combinator's investment"
+format:
+  html:
+    theme: cosmo
+about:
+  template: marquee
+  links:
+    - icon: database
+      text: datasource
+      href:  https://www.kaggle.com/datasets/sashakorovkina/ycombinator-all-funded-companies-dataset
+    - icon: file
+      text: slides
+      href:  slides/slides.pdf
+---
+# Introduction
+
+This project explores Y Combinator’s startup ecosystem through a detailed database covering companies, founders, and industries. An ER diagram and SQL analysis highlight that 71% of startups are active, with strong presence in Consumer, Fintech, and AI sectors. Founders often hail from Stanford, MIT, or tech giants like Google and Microsoft. The team recommends YC focus funding on North America, India, and UK startups, and support founders with elite education or tech experience to enhance success. This database aids venture capitalists, researchers, and acquirers in identifying high-potential startups.
+
+
+![Relational Data Model](images/relational.png)
+
+
+![Content of Analysis](images/analysis.png)
+
+## For more detail information, please click "datasource" and "slides" button to check.
+
+## Thank You!!
+

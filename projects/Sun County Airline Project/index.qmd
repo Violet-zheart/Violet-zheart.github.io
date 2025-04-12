@@ -1,5 +1,5 @@
 ---
-title: "SUN COUNTRY AIRLINES CASE PROJECT"
+title: "Sun Country Airlines Case Project"
 author: "Xinru(Violet) Zhao, Kohsuke(Cody) Asano, Shin(Avery) Yang, Philip Tong, Pratiksha Gund"
 date: "2024-9-08"
 image: images/cover.png
