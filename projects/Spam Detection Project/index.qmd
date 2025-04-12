@@ -1,7 +1,7 @@
 ---
 title: "Spam Detection Project"
-author: "Xinru Zhao, Wenqi Wang, Sanya Wang, Yixi Cheng, Yuh-Shin Yen"
-date: "2025-3-19"
+author: "Xinru Zhao, Wenqi(Vicky)Wang, Sanya Wang, Yixi(Claire)Cheng, Yuh-Shin(Ashley)Yen"
+# date: "2025-3-19"
 image: images/cover.png
 description: "A spam detection project with an interactive interface"
 format:
@@ -19,8 +19,9 @@ about:
     - icon: file
       text: report
       href: projects/Spam Detection Project/Report/report.pdf
-  
 ---
+Finish Date: 2025-3-19
+
 # Introduction
 
 This project aims to build a machine learning model to detect SMS messages as spam or ham (non-spam). Spam messages are growing fast in recent years, and they can be risky. So, detecting them is important. This project uses Natural Language Processing (NLP) methods.We test different classifiers. We also use Synthetic Minority Oversampling Technique (SMOTE) to fix class imbalance.

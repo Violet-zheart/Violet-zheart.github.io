@@ -1,7 +1,7 @@
 ---
 title: "Beyond Meat's Marketing Challenges and Strategic Opportunities"
-author: "Xinru(Violet) Zhao, Kohsuke(Cody) Asano, Shin(Avery) Yang, Philip Tong, Pratiksha Gund"
-date: "2024-11-27"
+author: "Xinru(Violet)Zhao, Kohsuke(Cody)Asano, Shin(Avery)Yang, Philip Tong, Pratiksha Gund"
+# date: "2024-11-27"
 image: images/image.png
 description: "A marketing project for Beyond Meat's challenges and opportunities"
 format:
@@ -13,8 +13,9 @@ about:
     - icon: file
       text: report
       href: projects/Beyond Meat MKT Proj/report/report.pdf
-
 ---
+Finish Date:2024-11-27
+
 # Table of contents
 
 1. Introduction

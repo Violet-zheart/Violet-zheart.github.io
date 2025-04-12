@@ -1,7 +1,7 @@
 ---
 title: "Employee Retention & Performance Analysis for HR Decision-Making"
-author: "Xinru(Violet) Zhao, Kohsuke(Cody) Asano, Shin(Avery) Yang, Philip Tong, Pratiksha Gund"
-date: "2024-12-06"
+author: "Xinru(Violet)Zhao, Kohsuke(Cody)Asano, Shin(Avery)Yang, Philip Tong, Pratiksha Gund"
+# date: "2024-12-06"
 image: images/cover.png
 description: "Employee and HR Analytics: A Predictive Modeling Approach on Attrition"
 format:
@@ -19,9 +19,9 @@ about:
     - icon: file
       text: report
       href: projects/HR Attrition Project/report/report.pdf
-
-  
 ---
+Finish Date:2024-12-06
+
 # Introduction
 
 Employee retention is a critical challenge for organizations, as high turnover rates can disrupt operations, increase recruitment and training costs, and negatively impact team dynamics and morale. Addressing this issue is vital for maintaining a stable workforce and ensuring organizational success. The business idea underpinning this analysis focuses on leveraging data-driven insights to proactively identify at-risk employees and implement effective retention strategies. 

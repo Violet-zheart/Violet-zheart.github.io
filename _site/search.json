@@ -18,14 +18,14 @@
     "href": "projects/Spam Detection Project/index.html",
     "title": "Spam Detection Project",
     "section": "",
-    "text": "This project aims to build a machine learning model to detect SMS messages as spam or ham (non-spam). Spam messages are growing fast in recent years, and they can be risky. So, detecting them is important. This project uses Natural Language Processing (NLP) methods.We test different classifiers. We also use Synthetic Minority Oversampling Technique (SMOTE) to fix class imbalance.\nWe evaluate model performance using metrics such as accuracy, precision, recall, F1-score, and AUC. Naïve Bayes with TF-IDF and N-gram models(unigram + bigram + trigram) works best. We also build a live demo to show how the model detects spam in real time.(in project code)"
+    "text": "Finish Date: 2025-3-19"
   },
   {
     "objectID": "projects/HR Attrition Project/index.html",
     "href": "projects/HR Attrition Project/index.html",
     "title": "Employee Retention & Performance Analysis for HR Decision-Making",
     "section": "",
-    "text": "Employee retention is a critical challenge for organizations, as high turnover rates can disrupt operations, increase recruitment and training costs, and negatively impact team dynamics and morale. Addressing this issue is vital for maintaining a stable workforce and ensuring organizational success. The business idea underpinning this analysis focuses on leveraging data-driven insights to proactively identify at-risk employees and implement effective retention strategies.\nThis study utilizes the IBM HR Analytics Employee Attrition & Performance dataset, which includes detailed information related to employee retention across 35 attributes. These attributes span various dimensions such as environmental satisfaction, compensation, and job performance ratings with an “Attrition” variable, indicating whether an employee has left the company, making it an ideal resource for analyzing turnover trends. The importance of this project lies in its potential to address a pressing business problem by combining advanced analytical techniques with real-world HR data. Organizations today face increasing competition for talent, and understanding the drivers of employee attrition is crucial for retaining top performers and maintaining a competitive edge. Through the application of machine learning models such as Random Forest, Logistic Regression, and K-Nearest Neighbors (KNN), this analysis aims to build a robust predictive framework for identifying attrition risk. These methods allow us to uncover key patterns in employee behavior, identify influential factors contributing to turnover, and offer actionable recommendations to help HR departments enhance employee retention and overall organizational stability."
+    "text": "Finish Date:2024-12-06"
   },
   {
     "objectID": "projects/Spam Detection Project/index.html#for-more-detail-information-please-go-to-projectcode-button-to-check.",
@@ -102,7 +102,7 @@
     "href": "projects/Sun County Airline Project/index.html",
     "title": "Sun Country Airlines Case Project",
     "section": "",
-    "text": "Sun Country Airlines, a regional carrier, is at a pivotal stage in its development, where strategic use of technology and customer data will play a critical role in shaping its future. Therefore, Warnken, Sun Country’s manager, recognizing the limitations of competing solely on price against larger carriers, emphasizes the need for a deeper understanding of customer preferences. His vision is to create unique value propositions, such as vacation packages, that appeal to customers and are diBicult for competitors to replicate. The other manager, Vaughan, she highlights the need to align the online booking channels with the expectations of modern travelers while also driving engagement in the airline’s loyalty program, Ufly Rewards. She aims to refine their digital platforms, making them more user-centric and eBective in converting frequent travelers into loyal members."
+    "text": "Finish Date: 2024-9-08"
   },
   {
     "objectID": "projects/Sun County Airline Project/index.html#for-more-detail-information-please-click-report-to-check.",
@@ -135,9 +135,9 @@
   {
     "objectID": "projects/Statistic Data Analysis/index.html",
     "href": "projects/Statistic Data Analysis/index.html",
-    "title": "Sratistical Data Analysis Project",
+    "title": "Statistical Data Analysis Project",
     "section": "",
-    "text": "We’ve all experienced love, and human behavior towards love is often far more complex than that of other animals. One of the most notable behaviors is kissing. Humans tend to kiss when they are in love, which is not commonly seen in the behavior of other animals. This raises the question: why do people kiss? It’s not just for procreation or the fulfillment of desires but also for forming a deep connection with others, especially in close relationships. In what situations do people tend to kiss more in their relationships? Does the surrounding environment aLect kissing behavior? What kinds of relationships encourage more frequent kisses? We explored the relationship between “Kiss Frequency” and various other factors within romantic relationships, such as the attractiveness of a partner, satisfaction with the kiss, and even some economic metrics including national GDP and the GINI index, which will be discussed in the section 3. We believe that there is complexity in this issue because having evidence to prove that at a country level there is a correlation is something that is not really focused on and was something we did not have much knowledge about before we started this analysis project. By examining these factors, we aim to gain a deeper understanding of how both personal and societal influences shape kissing behavior in romantic relationships. These findings will be explored in detail in the subsequent sections of this report."
+    "text": "Finish Date: 2024-9-08"
   },
   {
     "objectID": "projects/index.html#hr-attrition-project",
@@ -186,7 +186,7 @@
     "href": "projects/Beyond Meat MKT Proj/index.html",
     "title": "Beyond Meat’s Marketing Challenges and Strategic Opportunities",
     "section": "",
-    "text": "Introduction\nMarketing Situation Analysis\nMarketing Issue Identification\nIdentification of Possible Solutions\nEvaluation and Choice of Solution\nOutline of Action Plan to Implement a Solution\nAttachments"
+    "text": "Finish Date:2024-11-27"
   },
   {
     "objectID": "projects/index.html#hr-attrition-projectpython",
@@ -284,7 +284,7 @@
     "href": "projects/Y Combinator Proj/index.html",
     "title": "Y Combinator Startup Project",
     "section": "",
-    "text": "This project explores Y Combinator’s startup ecosystem through a detailed database covering companies, founders, and industries. An ER diagram and SQL analysis highlight that 71% of startups are active, with strong presence in Consumer, Fintech, and AI sectors. Founders often hail from Stanford, MIT, or tech giants like Google and Microsoft. The team recommends YC focus funding on North America, India, and UK startups, and support founders with elite education or tech experience to enhance success. This database aids venture capitalists, researchers, and acquirers in identifying high-potential startups.\n\n\n\nRelational Data Model\n\n\n\n\n\nContent of Analysis"
+    "text": "Finish Date: 2025-3-19"
   },
   {
     "objectID": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-projectcode-and-report-to-check.",
@@ -418,5 +418,26 @@
     "title": "Projects",
     "section": "",
     "text": "This project analyzes YC-backed startups to uncover success patterns. Using a comprehensive dataset (companies, founders, industries, regions, schools), the team designed an ER diagram and relational data model to map relationships. SQL queries revealed that 71% of startups remain active, with Consumer, Fintech, and AI industries leading. Stanford University and tech giants like Google dominate founder backgrounds. Insights suggest YC prioritize North America, India, and UK startups, and invest in founders from top schools and tech firms to boost survival rates, offering valuable data for investors and market researchers.\nCheck out this analysis I performed by following the link here."
+  },
+  {
+    "objectID": "projects/Beyond Meat MKT Proj/index.html#click-the-report-button-for-more-details.-thank-you",
+    "href": "projects/Beyond Meat MKT Proj/index.html#click-the-report-button-for-more-details.-thank-you",
+    "title": "Beyond Meat’s Marketing Challenges and Strategic Opportunities",
+    "section": "Click the “report” button for more details. Thank you!",
+    "text": "Click the “report” button for more details. Thank you!"
+  },
+  {
+    "objectID": "projects/Statistic Data Analysis/index.html#for-more-detail-information-please-click-projectcode-slides-and-report-to-check.",
+    "href": "projects/Statistic Data Analysis/index.html#for-more-detail-information-please-click-projectcode-slides-and-report-to-check.",
+    "title": "Statistical Data Analysis Project",
+    "section": "For more detail information, please click “projectcode” ,“slides” and “report” to check.",
+    "text": "For more detail information, please click “projectcode” ,“slides” and “report” to check."
+  },
+  {
+    "objectID": "projects/Statistic Data Analysis/index.html#thank-you",
+    "href": "projects/Statistic Data Analysis/index.html#thank-you",
+    "title": "Statistical Data Analysis Project",
+    "section": "Thank You!!",
+    "text": "Thank You!!"
   }
 ]

@@ -1,7 +1,7 @@
 ---
 title: "Sun Country Airlines Case Project"
-author: "Xinru(Violet) Zhao, Kohsuke(Cody) Asano, Shin(Avery) Yang, Philip Tong, Pratiksha Gund"
-date: "2024-9-08"
+author: "Xinru(Violet)Zhao, Kohsuke(Cody)Asano, Shin(Avery)Yang, Philip Tong, Pratiksha Gund"
+# date: "2024-9-08"
 image: images/cover.png
 description: "A project to figure out some valuable insights based on marketing segmentation using K-means methods and visualization tools"
 format:
@@ -13,8 +13,9 @@ about:
     - icon: file
       text: report
       href:  projects/Sun County Airline Project/report/report.pdf
-
 ---
+Finish Date: 2024-9-08
+
 # Introduction
 
 Sun Country Airlines, a regional carrier, is at a pivotal stage in its development, where strategic use of technology and customer data will play a critical role in shaping its future. Therefore, Warnken, Sun Country's manager, recognizing the limitations of competing solely on price against larger carriers, emphasizes the need for a deeper understanding of customer preferences. His vision is to create unique value propositions, such as vacation packages, that appeal to customers and are diBicult for competitors to replicate. The other manager, Vaughan, she highlights the need to align the online booking channels with the expectations of modern travelers while also driving engagement in the airline’s loyalty program, Ufly Rewards. She aims to refine their digital platforms, making them more user-centric and eBective in converting frequent travelers into loyal members.
