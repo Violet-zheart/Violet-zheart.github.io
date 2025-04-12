@@ -12,13 +12,13 @@ about:
   links:
     - icon: file
       text: report
-      href:  report/report.pdf
+      href: projects/Statistic Data Analysis/report/report.pdf
     - icon: database
       text: datasource
       href: https://osf.io/pbqwm/
     - icon: file
       text: slides
-      href:  report/slides.pdf
+      href: projects/Statistic Data Analysis/report/slides.pdf
 
 ---
 # Introduction

@@ -18,7 +18,7 @@ about:
       href: https://colab.research.google.com/drive/1iLqR0bMFGgY7G4NggkziqsIYwyfOog1H?usp=sharing 
     - icon: file
       text: report
-      href: Report/report.pdf
+      href: projects/Spam Detection Project/Report/report.pdf
   
 ---
 # Introduction

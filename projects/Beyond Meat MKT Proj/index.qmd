@@ -12,8 +12,8 @@ about:
   links:
     - icon: file
       text: report
-      href: report/report.pdf
-  
+      href: projects/Beyond Meat MKT Proj/report/report.pdf
+
 ---
 # Table of contents
 

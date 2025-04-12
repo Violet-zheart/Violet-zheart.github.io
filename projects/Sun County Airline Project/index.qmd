@@ -12,8 +12,8 @@ about:
   links:
     - icon: file
       text: report
-      href:  report/report.pdf
-  
+      href:  projects/Sun County Airline Project/report/report.pdf
+
 ---
 # Introduction
 

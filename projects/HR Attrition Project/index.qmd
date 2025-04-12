@@ -18,7 +18,8 @@ about:
       href: https://drive.google.com/file/d/1l4El12OiZViX5n1uL4Xsvo5g8Tke1AgS/view?usp=sharing
     - icon: file
       text: report
-      href: report/report.pdf
+      href: projects/HR Attrition Project/report/report.pdf
+
   
 ---
 # Introduction
@@ -33,7 +34,7 @@ This study utilizes the IBM HR Analytics Employee Attrition & Performance datase
 ![Key Variables and Description1](images/description1.png)
 ![Key Variables and Description2](images/description2.png)
 
-## For more detail information, please click "projectcode" and "report" to check.
+# For more detail information, please click "projectcode" and "report" to check.
 
 ## Thank You!!
 

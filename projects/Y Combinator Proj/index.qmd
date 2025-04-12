@@ -15,7 +15,8 @@ about:
       href:  https://www.kaggle.com/datasets/sashakorovkina/ycombinator-all-funded-companies-dataset
     - icon: file
       text: slides
-      href:  slides/slides.pdf
+      href:  projects/Y Combinator Proj/slides/slides.pdf
+
 ---
 # Introduction
 
