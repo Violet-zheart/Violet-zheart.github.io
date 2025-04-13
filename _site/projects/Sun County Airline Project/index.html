@@ -175,7 +175,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 </main> 
     <div class="about-footer"><div class="about-links">
-  <a href="/projects/Sun County Airline Project/report/report.pdf" class="about-link" rel="" target="">
+  <a href="https://drive.google.com/file/d/1msqLBLXkX_g_e_yLW7O6s1Rzl-BZPXqp/view?usp=sharing" class="about-link" rel="" target="">
     <i class="bi bi-file"></i>
      <span class="about-link-text">report</span>
   </a>
@@ -267,7 +267,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/Violet-zheart\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

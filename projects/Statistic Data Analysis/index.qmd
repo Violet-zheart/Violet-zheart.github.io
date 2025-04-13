@@ -12,13 +12,13 @@ about:
   links:
     - icon: file
       text: report
-      href: projects/Statistic Data Analysis/report/report.pdf
+      href: https://drive.google.com/file/d/1fBbGl38OVpLL9x_3PLH66rWs3i2YM9rU/view?usp=sharing
     - icon: database
       text: datasource
       href: https://osf.io/pbqwm/
     - icon: file
       text: slides
-      href: projects/Statistic Data Analysis/report/slides.pdf
+      href: https://drive.google.com/file/d/12_golallw1M5vPKY39Hig_hzJf4ntRIH/view?usp=sharing
 ---
 Finish Date: 2024-9-08
 

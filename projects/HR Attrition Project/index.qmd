@@ -18,7 +18,7 @@ about:
       href: https://drive.google.com/file/d/1l4El12OiZViX5n1uL4Xsvo5g8Tke1AgS/view?usp=sharing
     - icon: file
       text: report
-      href: projects/HR Attrition Project/report/report.pdf
+      href: https://drive.google.com/file/d/1bIhBix0mjKRPBQrhWkZrmJSWLVb_AxtC/view?usp=sharing
 ---
 Finish Date:2024-12-06
 

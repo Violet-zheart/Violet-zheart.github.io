@@ -12,7 +12,7 @@ about:
   links:
     - icon: file
       text: report
-      href: projects/Beyond Meat MKT Proj/report/report.pdf
+      href: https://drive.google.com/file/d/1sWoHJQ-HUmCq380Zht0LED4eT-7px8bt/view?usp=sharing
 ---
 Finish Date:2024-11-27
 

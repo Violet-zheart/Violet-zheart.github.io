@@ -12,7 +12,7 @@ about:
   links:
     - icon: file
       text: report
-      href:  projects/Sun County Airline Project/report/report.pdf
+      href:  https://drive.google.com/file/d/1msqLBLXkX_g_e_yLW7O6s1Rzl-BZPXqp/view?usp=sharing
 ---
 Finish Date: 2024-9-08
 
