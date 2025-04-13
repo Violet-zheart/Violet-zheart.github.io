@@ -7,11 +7,32 @@
     "text": "Hi, there! This is my website sharing the projects I’ve finished. Feel free to check! Thank You!!\n\nAbout me\nI’m a Business Analytics student at UC Irvine’s Paul Merage School, with expertise in statistical analysis, operations analytics, and marketing foundations. Previously, I worked at a manufacturing company, collecting and analyzing review data from brands like JAC FORD and BYD.\nThrough school projects, I’ve strengthened my data analytics skills and marketing knowledge, focusing on analyzing consumer behavior to extract insights from large datasets. I’m passionate about leveraging these skills in the media and entertainment or CPG industries to support company growth. Open to opportunities where I can apply my analytical abilities. Connect with me!"
   },
   {
-    "objectID": "projects/project1/index.html",
-    "href": "projects/project1/index.html",
-    "title": "Natural Language Processing",
+    "objectID": "projects/Statistic Data Analysis/index.html",
+    "href": "projects/Statistic Data Analysis/index.html",
+    "title": "Statistical Data Analysis Project",
     "section": "",
-    "text": "Natural Language Processing"
+    "text": "Finish Date: 2024-9-08"
+  },
+  {
+    "objectID": "projects/Statistic Data Analysis/index.html#for-more-detail-information-please-click-projectcode-slides-and-report-to-check.",
+    "href": "projects/Statistic Data Analysis/index.html#for-more-detail-information-please-click-projectcode-slides-and-report-to-check.",
+    "title": "Statistical Data Analysis Project",
+    "section": "For more detail information, please click “projectcode” ,“slides” and “report” to check.",
+    "text": "For more detail information, please click “projectcode” ,“slides” and “report” to check."
+  },
+  {
+    "objectID": "projects/Statistic Data Analysis/index.html#thank-you",
+    "href": "projects/Statistic Data Analysis/index.html#thank-you",
+    "title": "Statistical Data Analysis Project",
+    "section": "Thank You!!",
+    "text": "Thank You!!"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "HR Attrition Project(Python:ML)\n\nEmployee retention is crucial for organizational stability, as high turnover disrupts operations and increases costs. This study leverages the IBM HR Analytics Employee Attrition & Performance dataset, containing 35 attributes like satisfaction, compensation, and performance, to analyze turnover trends. By applying machine learning models—Random Forest, Logistic Regression, and K-Nearest Neighbors—the project aims to predict attrition risk, identify key factors driving employee turnover, and provide actionable insights. Understanding these patterns helps HR departments proactively retain talent, reduce recruitment expenses, and maintain a competitive edge in today’s talent-driven market, ultimately fostering a stable and productive workforce.Check out this analysis I performed by following the link here.\n\n:::\n\n\nSpam Detection Project(Python:ML+NLP)\n\nThis project builds a machine learning model to classify SMS messages as spam or ham (non-spam) using Natural Language Processing (NLP) techniques. To address class imbalance, it applies SMOTE (Synthetic Minority Oversampling Technique). Various classifiers are tested, and model performance is evaluated using accuracy, precision, recall, F1-score, and AUC. The best results are achieved using a Naïve Bayes classifier with TF-IDF vectorization and N-gram features (unigram, bigram, trigram). A live demo is also developed to showcase real-time spam detection. This project highlights the importance of automated spam detection in the face of increasing spam message volume.Check out this analysis I performed by following the link here.\n\n:::\n\n\nStatistic Data Analysis Project(SPSS: Regression/Excel)\n\nThis project explores the complexity of human kissing behavior in romantic relationships, which goes beyond biological instincts to foster emotional connection. It investigates factors influencing “Kiss Frequency,” including partner attractiveness, kiss satisfaction, and broader societal influences like national GDP and the GINI index. The study aims to understand how both personal and environmental factors affect kissing habits. Unlike other animals, humans kiss more frequently in love, and this behavior may vary based on relationship type and surroundings. The analysis offers new insights into the cultural and economic aspects of kissing, with findings detailed in later sections of the report.Check out this analysis I performed by following the link here.\n\n:::\n\n\nSun Country Airline Project(Python:K-Means/Excel/PowerBI)\n\nThis project supports Sun Country Airlines’ growth by using data-driven strategies to enhance customer engagement and loyalty. Using data from January 2013 to December 2014 (37 columns, 26,575 rows), we applied K-means Cluster Analysis and visualized results using Excel, Python, and Power BI. This enabled us to group customers by similar behaviors and preferences, supporting Precision Marketing efforts. Visualizations helped identify key segments and generate actionable insights to strengthen customer relationships and build a sustainable competitive advantage.Check out this analysis I performed by following the link here.\n\n:::\n\n\nY Combinator Project(MySQL:Join+Subquery)\n\nThis project analyzes YC-backed startups to uncover success patterns. Using a comprehensive dataset (companies, founders, industries, regions, schools), the team designed an ER diagram and relational data model to map relationships. SQL queries revealed that 71% of startups remain active, with Consumer, Fintech, and AI industries leading. Stanford University and tech giants like Google dominate founder backgrounds. Insights suggest YC prioritize North America, India, and UK startups, and invest in founders from top schools and tech firms to boost survival rates, offering valuable data for investors and market researchers.Check out this analysis I performed by following the link here.\n\n:::\n\n\nBeyond Meat Marketing Project\n\n\n\nThis project aims to address the potential issues arising in plant-based market, especially for Beyond Meat. This project provided some suggestions for Beyond Meat in Product and Sales Channel aspects.\nCheck out this analysis I performed by following the link here. :::"
   },
   {
     "objectID": "projects/Spam Detection Project/index.html",
@@ -21,18 +42,11 @@
     "text": "Finish Date: 2025-3-19"
   },
   {
-    "objectID": "projects/HR Attrition Project/index.html",
-    "href": "projects/HR Attrition Project/index.html",
-    "title": "Employee Retention & Performance Analysis for HR Decision-Making",
-    "section": "",
-    "text": "Finish Date:2024-12-06"
-  },
-  {
-    "objectID": "projects/Spam Detection Project/index.html#for-more-detail-information-please-go-to-projectcode-button-to-check.",
-    "href": "projects/Spam Detection Project/index.html#for-more-detail-information-please-go-to-projectcode-button-to-check.",
-    "title": "Spam Detection",
-    "section": "For more detail information, please go to “projectcode” button to check.",
-    "text": "For more detail information, please go to “projectcode” button to check."
+    "objectID": "projects/Spam Detection Project/index.html#for-more-detail-information-please-click-projectcode-and-report-to-check.",
+    "href": "projects/Spam Detection Project/index.html#for-more-detail-information-please-click-projectcode-and-report-to-check.",
+    "title": "Spam Detection Project",
+    "section": "For more detail information, please click “projectcode” and “report” to check.",
+    "text": "For more detail information, please click “projectcode” and “report” to check."
   },
   {
     "objectID": "projects/Spam Detection Project/index.html#thank-you",
@@ -42,60 +56,25 @@
     "text": "Thank You!!"
   },
   {
-    "objectID": "projects/HR Attrition Project/index.html#for-more-detail-information-please-go-to-projectcode-button-to-check.",
-    "href": "projects/HR Attrition Project/index.html#for-more-detail-information-please-go-to-projectcode-button-to-check.",
-    "title": "Employee Retention & Performance Analysis for HR Decision-Making",
-    "section": "For more detail information, please go to “projectcode” button to check.",
-    "text": "For more detail information, please go to “projectcode” button to check."
+    "objectID": "projects/Y Combinator Proj/index.html",
+    "href": "projects/Y Combinator Proj/index.html",
+    "title": "Y Combinator Startup Project",
+    "section": "",
+    "text": "Finish Date: 2025-3-19"
   },
   {
-    "objectID": "projects/HR Attrition Project/index.html#thank-you",
-    "href": "projects/HR Attrition Project/index.html#thank-you",
-    "title": "Employee Retention & Performance Analysis for HR Decision-Making",
+    "objectID": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-datasource-and-slides-button-to-check.",
+    "href": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-datasource-and-slides-button-to-check.",
+    "title": "Y Combinator Startup Project",
+    "section": "For more detail information, please click “datasource” and “slides” button to check.",
+    "text": "For more detail information, please click “datasource” and “slides” button to check."
+  },
+  {
+    "objectID": "projects/Y Combinator Proj/index.html#thank-you",
+    "href": "projects/Y Combinator Proj/index.html#thank-you",
+    "title": "Y Combinator Startup Project",
     "section": "Thank You!!",
     "text": "Thank You!!"
-  },
-  {
-    "objectID": "projects/HR Attrition Project/index.html#for-more-detail-information-please-click",
-    "href": "projects/HR Attrition Project/index.html#for-more-detail-information-please-click",
-    "title": "Employee Retention & Performance Analysis for HR Decision-Making",
-    "section": "For more detail information, please click",
-    "text": "For more detail information, please click"
-  },
-  {
-    "objectID": "projects/HR Attrition Project/index.html#for-more-detail-information-please-click-project",
-    "href": "projects/HR Attrition Project/index.html#for-more-detail-information-please-click-project",
-    "title": "Employee Retention & Performance Analysis for HR Decision-Making",
-    "section": "For more detail information, please click “project”",
-    "text": "For more detail information, please click “project”"
-  },
-  {
-    "objectID": "projects/HR Attrition Project/index.html#for-more-detail-information-please-click-projectcode",
-    "href": "projects/HR Attrition Project/index.html#for-more-detail-information-please-click-projectcode",
-    "title": "Employee Retention & Performance Analysis for HR Decision-Making",
-    "section": "For more detail information, please click “projectcode”",
-    "text": "For more detail information, please click “projectcode”"
-  },
-  {
-    "objectID": "projects/HR Attrition Project/index.html#for-more-detail-information-please-click-projectcode-and",
-    "href": "projects/HR Attrition Project/index.html#for-more-detail-information-please-click-projectcode-and",
-    "title": "Employee Retention & Performance Analysis for HR Decision-Making",
-    "section": "For more detail information, please click “projectcode” and",
-    "text": "For more detail information, please click “projectcode” and"
-  },
-  {
-    "objectID": "projects/HR Attrition Project/index.html#for-more-detail-information-please-click-projectcode-and-report-to-check",
-    "href": "projects/HR Attrition Project/index.html#for-more-detail-information-please-click-projectcode-and-report-to-check",
-    "title": "Employee Retention & Performance Analysis for HR Decision-Making",
-    "section": "For more detail information, please click “projectcode” and “report” to check",
-    "text": "For more detail information, please click “projectcode” and “report” to check"
-  },
-  {
-    "objectID": "projects/Spam Detection Project/index.html#for-more-detail-information-please-click-projectcode-and-report-to-check.",
-    "href": "projects/Spam Detection Project/index.html#for-more-detail-information-please-click-projectcode-and-report-to-check.",
-    "title": "Spam Detection Project",
-    "section": "For more detail information, please click “projectcode” and “report” to check.",
-    "text": "For more detail information, please click “projectcode” and “report” to check."
   },
   {
     "objectID": "projects/Sun County Airline Project/index.html",
@@ -119,305 +98,11 @@
     "text": "Thank You!!"
   },
   {
-    "objectID": "projects/HR Attrition Project/index.html#for-more-detail-information-please-click-projectcode-and-report-to-check.",
-    "href": "projects/HR Attrition Project/index.html#for-more-detail-information-please-click-projectcode-and-report-to-check.",
-    "title": "Employee Retention & Performance Analysis for HR Decision-Making",
-    "section": "For more detail information, please click “projectcode” and “report” to check.",
-    "text": "For more detail information, please click “projectcode” and “report” to check."
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "HR Attrition Project(Python:ML)\n\nEmployee retention is crucial for organizational stability, as high turnover disrupts operations and increases costs. This study leverages the IBM HR Analytics Employee Attrition & Performance dataset, containing 35 attributes like satisfaction, compensation, and performance, to analyze turnover trends. By applying machine learning models—Random Forest, Logistic Regression, and K-Nearest Neighbors—the project aims to predict attrition risk, identify key factors driving employee turnover, and provide actionable insights. Understanding these patterns helps HR departments proactively retain talent, reduce recruitment expenses, and maintain a competitive edge in today’s talent-driven market, ultimately fostering a stable and productive workforce.Check out this analysis I performed by following the link here.\n\n:::\n\n\nSpam Detection Project(Python:ML+NLP)\n\nThis project builds a machine learning model to classify SMS messages as spam or ham (non-spam) using Natural Language Processing (NLP) techniques. To address class imbalance, it applies SMOTE (Synthetic Minority Oversampling Technique). Various classifiers are tested, and model performance is evaluated using accuracy, precision, recall, F1-score, and AUC. The best results are achieved using a Naïve Bayes classifier with TF-IDF vectorization and N-gram features (unigram, bigram, trigram). A live demo is also developed to showcase real-time spam detection. This project highlights the importance of automated spam detection in the face of increasing spam message volume.Check out this analysis I performed by following the link here.\n\n:::\n\n\nStatistic Data Analysis Project(SPSS: Regression/Excel)\n\nThis project explores the complexity of human kissing behavior in romantic relationships, which goes beyond biological instincts to foster emotional connection. It investigates factors influencing “Kiss Frequency,” including partner attractiveness, kiss satisfaction, and broader societal influences like national GDP and the GINI index. The study aims to understand how both personal and environmental factors affect kissing habits. Unlike other animals, humans kiss more frequently in love, and this behavior may vary based on relationship type and surroundings. The analysis offers new insights into the cultural and economic aspects of kissing, with findings detailed in later sections of the report.Check out this analysis I performed by following the link here.\n\n:::\n\n\nSun Country Airline Project(Python:K-Means/Excel/PowerBI)\n\nThis project supports Sun Country Airlines’ growth by using data-driven strategies to enhance customer engagement and loyalty. Using data from January 2013 to December 2014 (37 columns, 26,575 rows), we applied K-means Cluster Analysis and visualized results using Excel, Python, and Power BI. This enabled us to group customers by similar behaviors and preferences, supporting Precision Marketing efforts. Visualizations helped identify key segments and generate actionable insights to strengthen customer relationships and build a sustainable competitive advantage.Check out this analysis I performed by following the link here.\n\n:::\n\n\nY Combinator Project(MySQL:Join+Subquery)\n\nThis project analyzes YC-backed startups to uncover success patterns. Using a comprehensive dataset (companies, founders, industries, regions, schools), the team designed an ER diagram and relational data model to map relationships. SQL queries revealed that 71% of startups remain active, with Consumer, Fintech, and AI industries leading. Stanford University and tech giants like Google dominate founder backgrounds. Insights suggest YC prioritize North America, India, and UK startups, and invest in founders from top schools and tech firms to boost survival rates, offering valuable data for investors and market researchers.Check out this analysis I performed by following the link here.\n\n:::\n\n\nBeyond Meat Marketing Project\n\n\n\nThis project aims to address the potential issues arising in plant-based market, especially for Beyond Meat. This project provided some suggestions for Beyond Meat in Product and Sales Channel aspects.\nCheck out this analysis I performed by following the link here. :::"
-  },
-  {
-    "objectID": "projects/Statistic Data Analysis/index.html",
-    "href": "projects/Statistic Data Analysis/index.html",
-    "title": "Statistical Data Analysis Project",
-    "section": "",
-    "text": "Finish Date: 2024-9-08"
-  },
-  {
-    "objectID": "projects/index.html#hr-attrition-project",
-    "href": "projects/index.html#hr-attrition-project",
-    "title": "Projects",
-    "section": "",
-    "text": "IBM HR Analytics: Employee Attrition & Performance\nCheck out this analysis I performed by following the link here."
-  },
-  {
-    "objectID": "projects/index.html#spam-detection-project",
-    "href": "projects/index.html#spam-detection-project",
-    "title": "Projects",
-    "section": "",
-    "text": "This project builds a machine learning model to classify SMS messages as spam or ham (non-spam) using Natural Language Processing (NLP) techniques. To address class imbalance, it applies SMOTE (Synthetic Minority Oversampling Technique). Various classifiers are tested, and model performance is evaluated using accuracy, precision, recall, F1-score, and AUC. The best results are achieved using a Naïve Bayes classifier with TF-IDF vectorization and N-gram features (unigram, bigram, trigram). A live demo is also developed to showcase real-time spam detection. This project highlights the importance of automated spam detection in the face of increasing spam message volume."
-  },
-  {
-    "objectID": "projects/index.html#statistic-data-analysis",
-    "href": "projects/index.html#statistic-data-analysis",
-    "title": "Projects",
-    "section": "",
-    "text": "This project explores the complexity of human kissing behavior in romantic relationships, which goes beyond biological instincts to foster emotional connection. It investigates factors influencing “Kiss Frequency,” including partner attractiveness, kiss satisfaction, and broader societal influences like national GDP and the GINI index. The study aims to understand how both personal and environmental factors affect kissing habits. Unlike other animals, humans kiss more frequently in love, and this behavior may vary based on relationship type and surroundings. The analysis offers new insights into the cultural and economic aspects of kissing, with findings detailed in later sections of the report."
-  },
-  {
-    "objectID": "projects/index.html#sun-county-airline-project",
-    "href": "projects/index.html#sun-county-airline-project",
-    "title": "Projects",
-    "section": "",
-    "text": "This project supports Sun Country Airlines’ growth by using data-driven strategies to enhance customer engagement and loyalty. Using data from January 2013 to December 2014 (37 columns, 26,575 rows), we applied K-means Cluster Analysis and visualized results using Excel, Python, and Power BI. This enabled us to group customers by similar behaviors and preferences, supporting Precision Marketing efforts. Visualizations helped identify key segments and generate actionable insights to strengthen customer relationships and build a sustainable competitive advantage."
-  },
-  {
-    "objectID": "projects/index.html#statistic-data-analysis-project",
-    "href": "projects/index.html#statistic-data-analysis-project",
-    "title": "Projects",
-    "section": "",
-    "text": "This project explores the complexity of human kissing behavior in romantic relationships, which goes beyond biological instincts to foster emotional connection. It investigates factors influencing “Kiss Frequency,” including partner attractiveness, kiss satisfaction, and broader societal influences like national GDP and the GINI index. The study aims to understand how both personal and environmental factors affect kissing habits. Unlike other animals, humans kiss more frequently in love, and this behavior may vary based on relationship type and surroundings. The analysis offers new insights into the cultural and economic aspects of kissing, with findings detailed in later sections of the report."
-  },
-  {
-    "objectID": "projects/index.html#beyond-meat-marketing-project",
-    "href": "projects/index.html#beyond-meat-marketing-project",
-    "title": "Projects",
-    "section": "Beyond Meat Marketing Project",
-    "text": "Beyond Meat Marketing Project\n\nThis project aims to address the potential issues arising in plant-based market, especially for Beyond Meat. This project provided some suggestions for Beyond Meat in Product and Sales Channel aspects.Check out this analysis I performed by following the link here.\n\n:::"
-  },
-  {
     "objectID": "projects/Beyond Meat MKT Proj/index.html",
     "href": "projects/Beyond Meat MKT Proj/index.html",
     "title": "Beyond Meat’s Marketing Challenges and Strategic Opportunities",
     "section": "",
     "text": "Finish Date:2024-11-27"
-  },
-  {
-    "objectID": "projects/index.html#hr-attrition-projectpython",
-    "href": "projects/index.html#hr-attrition-projectpython",
-    "title": "Projects",
-    "section": "",
-    "text": "Employee retention is crucial for organizational stability, as high turnover disrupts operations and increases costs. This study leverages the IBM HR Analytics Employee Attrition & Performance dataset, containing 35 attributes like satisfaction, compensation, and performance, to analyze turnover trends. By applying machine learning models—Random Forest, Logistic Regression, and K-Nearest Neighbors—the project aims to predict attrition risk, identify key factors driving employee turnover, and provide actionable insights. Understanding these patterns helps HR departments proactively retain talent, reduce recruitment expenses, and maintain a competitive edge in today’s talent-driven market, ultimately fostering a stable and productive workforce."
-  },
-  {
-    "objectID": "projects/index.html#hr-attrition-projectpythonml",
-    "href": "projects/index.html#hr-attrition-projectpythonml",
-    "title": "Projects",
-    "section": "",
-    "text": "Employee retention is crucial for organizational stability, as high turnover disrupts operations and increases costs. This study leverages the IBM HR Analytics Employee Attrition & Performance dataset, containing 35 attributes like satisfaction, compensation, and performance, to analyze turnover trends. By applying machine learning models—Random Forest, Logistic Regression, and K-Nearest Neighbors—the project aims to predict attrition risk, identify key factors driving employee turnover, and provide actionable insights. Understanding these patterns helps HR departments proactively retain talent, reduce recruitment expenses, and maintain a competitive edge in today’s talent-driven market, ultimately fostering a stable and productive workforce.Check out this analysis I performed by following the link here.\n\n:::"
-  },
-  {
-    "objectID": "projects/index.html#spam-detection-projectpython",
-    "href": "projects/index.html#spam-detection-projectpython",
-    "title": "Projects",
-    "section": "",
-    "text": "This project builds a machine learning model to classify SMS messages as spam or ham (non-spam) using Natural Language Processing (NLP) techniques. To address class imbalance, it applies SMOTE (Synthetic Minority Oversampling Technique). Various classifiers are tested, and model performance is evaluated using accuracy, precision, recall, F1-score, and AUC. The best results are achieved using a Naïve Bayes classifier with TF-IDF vectorization and N-gram features (unigram, bigram, trigram). A live demo is also developed to showcase real-time spam detection. This project highlights the importance of automated spam detection in the face of increasing spam message volume."
-  },
-  {
-    "objectID": "projects/index.html#spam-detection-projectpythonml",
-    "href": "projects/index.html#spam-detection-projectpythonml",
-    "title": "Projects",
-    "section": "",
-    "text": "This project builds a machine learning model to classify SMS messages as spam or ham (non-spam) using Natural Language Processing (NLP) techniques. To address class imbalance, it applies SMOTE (Synthetic Minority Oversampling Technique). Various classifiers are tested, and model performance is evaluated using accuracy, precision, recall, F1-score, and AUC. The best results are achieved using a Naïve Bayes classifier with TF-IDF vectorization and N-gram features (unigram, bigram, trigram). A live demo is also developed to showcase real-time spam detection. This project highlights the importance of automated spam detection in the face of increasing spam message volume."
-  },
-  {
-    "objectID": "projects/index.html#statistic-data-analysis-projectspss",
-    "href": "projects/index.html#statistic-data-analysis-projectspss",
-    "title": "Projects",
-    "section": "",
-    "text": "This project explores the complexity of human kissing behavior in romantic relationships, which goes beyond biological instincts to foster emotional connection. It investigates factors influencing “Kiss Frequency,” including partner attractiveness, kiss satisfaction, and broader societal influences like national GDP and the GINI index. The study aims to understand how both personal and environmental factors affect kissing habits. Unlike other animals, humans kiss more frequently in love, and this behavior may vary based on relationship type and surroundings. The analysis offers new insights into the cultural and economic aspects of kissing, with findings detailed in later sections of the report."
-  },
-  {
-    "objectID": "projects/index.html#statistic-data-analysis-projectspssexcel",
-    "href": "projects/index.html#statistic-data-analysis-projectspssexcel",
-    "title": "Projects",
-    "section": "",
-    "text": "This project explores the complexity of human kissing behavior in romantic relationships, which goes beyond biological instincts to foster emotional connection. It investigates factors influencing “Kiss Frequency,” including partner attractiveness, kiss satisfaction, and broader societal influences like national GDP and the GINI index. The study aims to understand how both personal and environmental factors affect kissing habits. Unlike other animals, humans kiss more frequently in love, and this behavior may vary based on relationship type and surroundings. The analysis offers new insights into the cultural and economic aspects of kissing, with findings detailed in later sections of the report."
-  },
-  {
-    "objectID": "projects/index.html#sun-county-airline-projectpython",
-    "href": "projects/index.html#sun-county-airline-projectpython",
-    "title": "Projects",
-    "section": "",
-    "text": "This project supports Sun Country Airlines’ growth by using data-driven strategies to enhance customer engagement and loyalty. Using data from January 2013 to December 2014 (37 columns, 26,575 rows), we applied K-means Cluster Analysis and visualized results using Excel, Python, and Power BI. This enabled us to group customers by similar behaviors and preferences, supporting Precision Marketing efforts. Visualizations helped identify key segments and generate actionable insights to strengthen customer relationships and build a sustainable competitive advantage."
-  },
-  {
-    "objectID": "projects/index.html#sun-county-airline-projectpythonexcel",
-    "href": "projects/index.html#sun-county-airline-projectpythonexcel",
-    "title": "Projects",
-    "section": "",
-    "text": "This project supports Sun Country Airlines’ growth by using data-driven strategies to enhance customer engagement and loyalty. Using data from January 2013 to December 2014 (37 columns, 26,575 rows), we applied K-means Cluster Analysis and visualized results using Excel, Python, and Power BI. This enabled us to group customers by similar behaviors and preferences, supporting Precision Marketing efforts. Visualizations helped identify key segments and generate actionable insights to strengthen customer relationships and build a sustainable competitive advantage."
-  },
-  {
-    "objectID": "projects/index.html#sun-county-airline-projectpythonexcelpowerbi",
-    "href": "projects/index.html#sun-county-airline-projectpythonexcelpowerbi",
-    "title": "Projects",
-    "section": "",
-    "text": "This project supports Sun Country Airlines’ growth by using data-driven strategies to enhance customer engagement and loyalty. Using data from January 2013 to December 2014 (37 columns, 26,575 rows), we applied K-means Cluster Analysis and visualized results using Excel, Python, and Power BI. This enabled us to group customers by similar behaviors and preferences, supporting Precision Marketing efforts. Visualizations helped identify key segments and generate actionable insights to strengthen customer relationships and build a sustainable competitive advantage."
-  },
-  {
-    "objectID": "projects/index.html#sun-county-airline-projectpythonk-meansexcelpowerbi",
-    "href": "projects/index.html#sun-county-airline-projectpythonk-meansexcelpowerbi",
-    "title": "Projects",
-    "section": "",
-    "text": "This project supports Sun Country Airlines’ growth by using data-driven strategies to enhance customer engagement and loyalty. Using data from January 2013 to December 2014 (37 columns, 26,575 rows), we applied K-means Cluster Analysis and visualized results using Excel, Python, and Power BI. This enabled us to group customers by similar behaviors and preferences, supporting Precision Marketing efforts. Visualizations helped identify key segments and generate actionable insights to strengthen customer relationships and build a sustainable competitive advantage."
-  },
-  {
-    "objectID": "projects/index.html#statistic-data-analysis-projectspss-regressionexcel",
-    "href": "projects/index.html#statistic-data-analysis-projectspss-regressionexcel",
-    "title": "Projects",
-    "section": "",
-    "text": "This project explores the complexity of human kissing behavior in romantic relationships, which goes beyond biological instincts to foster emotional connection. It investigates factors influencing “Kiss Frequency,” including partner attractiveness, kiss satisfaction, and broader societal influences like national GDP and the GINI index. The study aims to understand how both personal and environmental factors affect kissing habits. Unlike other animals, humans kiss more frequently in love, and this behavior may vary based on relationship type and surroundings. The analysis offers new insights into the cultural and economic aspects of kissing, with findings detailed in later sections of the report.Check out this analysis I performed by following the link here.\n\n:::"
-  },
-  {
-    "objectID": "projects/index.html#spam-detection-projectpythonmlnlp",
-    "href": "projects/index.html#spam-detection-projectpythonmlnlp",
-    "title": "Projects",
-    "section": "",
-    "text": "This project builds a machine learning model to classify SMS messages as spam or ham (non-spam) using Natural Language Processing (NLP) techniques. To address class imbalance, it applies SMOTE (Synthetic Minority Oversampling Technique). Various classifiers are tested, and model performance is evaluated using accuracy, precision, recall, F1-score, and AUC. The best results are achieved using a Naïve Bayes classifier with TF-IDF vectorization and N-gram features (unigram, bigram, trigram). A live demo is also developed to showcase real-time spam detection. This project highlights the importance of automated spam detection in the face of increasing spam message volume.Check out this analysis I performed by following the link here.\n\n:::"
-  },
-  {
-    "objectID": "projects/index.html#beyond-meat-marketing-project-1",
-    "href": "projects/index.html#beyond-meat-marketing-project-1",
-    "title": "Projects",
-    "section": "",
-    "text": "This project aims to address the potential issues arising in plant-based market, especially for Beyond Meat. This project provided some suggestions for Beyond Meat in Product and Sales Channel aspects.Check out this analysis I performed by following the link here.\n\n:::"
-  },
-  {
-    "objectID": "projects/Y Combinator Proj/index.html",
-    "href": "projects/Y Combinator Proj/index.html",
-    "title": "Y Combinator Startup Project",
-    "section": "",
-    "text": "Finish Date: 2025-3-19"
-  },
-  {
-    "objectID": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-projectcode-and-report-to-check.",
-    "href": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-projectcode-and-report-to-check.",
-    "title": "Y Combinator Startup Project",
-    "section": "For more detail information, please click “projectcode” and “report” to check.",
-    "text": "For more detail information, please click “projectcode” and “report” to check."
-  },
-  {
-    "objectID": "projects/Y Combinator Proj/index.html#thank-you",
-    "href": "projects/Y Combinator Proj/index.html#thank-you",
-    "title": "Y Combinator Startup Project",
-    "section": "Thank You!!",
-    "text": "Thank You!!"
-  },
-  {
-    "objectID": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-projectcode-and-slides-to-check.",
-    "href": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-projectcode-and-slides-to-check.",
-    "title": "Y Combinator Startup Project",
-    "section": "For more detail information, please click “projectcode” and “slides” to check.",
-    "text": "For more detail information, please click “projectcode” and “slides” to check."
-  },
-  {
-    "objectID": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-projectcode-and-slides-button-to-check.",
-    "href": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-projectcode-and-slides-button-to-check.",
-    "title": "Y Combinator Startup Project",
-    "section": "For more detail information, please click “projectcode” and “slides” button to check.",
-    "text": "For more detail information, please click “projectcode” and “slides” button to check."
-  },
-  {
-    "objectID": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-and-slides-button-to-check.",
-    "href": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-and-slides-button-to-check.",
-    "title": "Y Combinator Startup Project",
-    "section": "For more detail information, please click and “slides” button to check.",
-    "text": "For more detail information, please click and “slides” button to check."
-  },
-  {
-    "objectID": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-andslides-button-to-check.",
-    "href": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-andslides-button-to-check.",
-    "title": "Y Combinator Startup Project",
-    "section": "For more detail information, please click ““and”slides” button to check.",
-    "text": "For more detail information, please click ““and”slides” button to check."
-  },
-  {
-    "objectID": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-dataand-slides-button-to-check.",
-    "href": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-dataand-slides-button-to-check.",
-    "title": "Y Combinator Startup Project",
-    "section": "For more detail information, please click “data”and “slides” button to check.",
-    "text": "For more detail information, please click “data”and “slides” button to check."
-  },
-  {
-    "objectID": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-datasourceand-slides-button-to-check.",
-    "href": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-datasourceand-slides-button-to-check.",
-    "title": "Y Combinator Startup Project",
-    "section": "For more detail information, please click “datasource”and “slides” button to check.",
-    "text": "For more detail information, please click “datasource”and “slides” button to check."
-  },
-  {
-    "objectID": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-datasource-and-slides-button-to-check.",
-    "href": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-datasource-and-slides-button-to-check.",
-    "title": "Y Combinator Startup Project",
-    "section": "For more detail information, please click “datasource” and “slides” button to check.",
-    "text": "For more detail information, please click “datasource” and “slides” button to check."
-  },
-  {
-    "objectID": "projects/index.html#y-combinator-projectmysqljoinsubquery",
-    "href": "projects/index.html#y-combinator-projectmysqljoinsubquery",
-    "title": "Projects",
-    "section": "Y Combinator Project(MySQL:Join+Subquery)",
-    "text": "Y Combinator Project(MySQL:Join+Subquery)\n\nThis project analyzes YC-backed startups to uncover success patterns. Using a comprehensive dataset (companies, founders, industries, regions, schools), the team designed an ER diagram and relational data model to map relationships. SQL queries revealed that 71% of startups remain active, with Consumer, Fintech, and AI industries leading. Stanford University and tech giants like Google dominate founder backgrounds. Insights suggest YC prioritize North America, India, and UK startups, and invest in founders from top schools and tech firms to boost survival rates, offering valuable data for investors and market researchers.Check out this analysis I performed by following the link here.\n\n:::"
-  },
-  {
-    "objectID": "projects/index.html#hr-attrition-projectpythonml-1",
-    "href": "projects/index.html#hr-attrition-projectpythonml-1",
-    "title": "Projects",
-    "section": "",
-    "text": "IBM HR Analytics: Employee Attrition & Performance\nEmployee retention is crucial for organizational stability, as high turnover disrupts operations and increases costs. This study leverages the IBM HR Analytics Employee Attrition & Performance dataset, containing 35 attributes like satisfaction, compensation, and performance, to analyze turnover trends. By applying machine learning models—Random Forest, Logistic Regression, and K-Nearest Neighbors—the project aims to predict attrition risk, identify key factors driving employee turnover, and provide actionable insights. Understanding these patterns helps HR departments proactively retain talent, reduce recruitment expenses, and maintain a competitive edge in today’s talent-driven market, ultimately fostering a stable and productive workforce.\nCheck out this analysis I performed by following the link here."
-  },
-  {
-    "objectID": "projects/index.html#spam-detection-projectpythonmlnlp-1",
-    "href": "projects/index.html#spam-detection-projectpythonmlnlp-1",
-    "title": "Projects",
-    "section": "",
-    "text": "This project builds a machine learning model to classify SMS messages as spam or ham (non-spam) using Natural Language Processing (NLP) techniques. To address class imbalance, it applies SMOTE (Synthetic Minority Oversampling Technique). Various classifiers are tested, and model performance is evaluated using accuracy, precision, recall, F1-score, and AUC. The best results are achieved using a Naïve Bayes classifier with TF-IDF vectorization and N-gram features (unigram, bigram, trigram). A live demo is also developed to showcase real-time spam detection. This project highlights the importance of automated spam detection in the face of increasing spam message volume.\nCheck out this analysis I performed by following the link here."
-  },
-  {
-    "objectID": "projects/index.html#statistic-data-analysis-projectspss-regressionexcel-1",
-    "href": "projects/index.html#statistic-data-analysis-projectspss-regressionexcel-1",
-    "title": "Projects",
-    "section": "",
-    "text": "This project explores the complexity of human kissing behavior in romantic relationships, which goes beyond biological instincts to foster emotional connection. It investigates factors influencing “Kiss Frequency,” including partner attractiveness, kiss satisfaction, and broader societal influences like national GDP and the GINI index. The study aims to understand how both personal and environmental factors affect kissing habits. Unlike other animals, humans kiss more frequently in love, and this behavior may vary based on relationship type and surroundings. The analysis offers new insights into the cultural and economic aspects of kissing, with findings detailed in later sections of the report.\nCheck out this analysis I performed by following the link here."
-  },
-  {
-    "objectID": "projects/index.html#statistic-data-analysis-projectspss-regressionexcel-2",
-    "href": "projects/index.html#statistic-data-analysis-projectspss-regressionexcel-2",
-    "title": "Projects",
-    "section": "",
-    "text": "This project explores the complexity of human kissing behavior in romantic relationships, which goes beyond biological instincts to foster emotional connection. It investigates factors influencing “Kiss Frequency,” including partner attractiveness, kiss satisfaction, and broader societal influences like national GDP and the GINI index. The study aims to understand how both personal and environmental factors affect kissing habits. Unlike other animals, humans kiss more frequently in love, and this behavior may vary based on relationship type and surroundings. The analysis offers new insights into the cultural and economic aspects of kissing, with findings detailed in later sections of the report.\nCheck out this analysis I performed by following the link here."
-  },
-  {
-    "objectID": "projects/index.html#sun-county-airline-projectpythonk-meansexcelpowerbi-1",
-    "href": "projects/index.html#sun-county-airline-projectpythonk-meansexcelpowerbi-1",
-    "title": "Projects",
-    "section": "",
-    "text": "This project supports Sun Country Airlines’ growth by using data-driven strategies to enhance customer engagement and loyalty. Using data from January 2013 to December 2014 (37 columns, 26,575 rows), we applied K-means Cluster Analysis and visualized results using Excel, Python, and Power BI. This enabled us to group customers by similar behaviors and preferences, supporting Precision Marketing efforts. Visualizations helped identify key segments and generate actionable insights to strengthen customer relationships and build a sustainable competitive advantage.\nCheck out this analysis I performed by following the link here."
-  },
-  {
-    "objectID": "projects/index.html#sun-country-airline-projectpythonk-meansexcelpowerbi",
-    "href": "projects/index.html#sun-country-airline-projectpythonk-meansexcelpowerbi",
-    "title": "Projects",
-    "section": "Sun Country Airline Project(Python:K-Means/Excel/PowerBI)",
-    "text": "Sun Country Airline Project(Python:K-Means/Excel/PowerBI)\n\nThis project supports Sun Country Airlines’ growth by using data-driven strategies to enhance customer engagement and loyalty. Using data from January 2013 to December 2014 (37 columns, 26,575 rows), we applied K-means Cluster Analysis and visualized results using Excel, Python, and Power BI. This enabled us to group customers by similar behaviors and preferences, supporting Precision Marketing efforts. Visualizations helped identify key segments and generate actionable insights to strengthen customer relationships and build a sustainable competitive advantage.Check out this analysis I performed by following the link here.\n\n:::"
-  },
-  {
-    "objectID": "projects/index.html#sun-country-airline-projectpythonk-meansexcelpowerbi-1",
-    "href": "projects/index.html#sun-country-airline-projectpythonk-meansexcelpowerbi-1",
-    "title": "Projects",
-    "section": "",
-    "text": "This project supports Sun Country Airlines’ growth by using data-driven strategies to enhance customer engagement and loyalty. Using data from January 2013 to December 2014 (37 columns, 26,575 rows), we applied K-means Cluster Analysis and visualized results using Excel, Python, and Power BI. This enabled us to group customers by similar behaviors and preferences, supporting Precision Marketing efforts. Visualizations helped identify key segments and generate actionable insights to strengthen customer relationships and build a sustainable competitive advantage.\nCheck out this analysis I performed by following the link here."
-  },
-  {
-    "objectID": "projects/index.html#y-combinator-projectmysqljoinsubquery-1",
-    "href": "projects/index.html#y-combinator-projectmysqljoinsubquery-1",
-    "title": "Projects",
-    "section": "",
-    "text": "This project analyzes YC-backed startups to uncover success patterns. Using a comprehensive dataset (companies, founders, industries, regions, schools), the team designed an ER diagram and relational data model to map relationships. SQL queries revealed that 71% of startups remain active, with Consumer, Fintech, and AI industries leading. Stanford University and tech giants like Google dominate founder backgrounds. Insights suggest YC prioritize North America, India, and UK startups, and invest in founders from top schools and tech firms to boost survival rates, offering valuable data for investors and market researchers.\nCheck out this analysis I performed by following the link here."
-  },
-  {
-    "objectID": "projects/index.html#beyond-meat-marketing-projectmysqljoinsubquery",
-    "href": "projects/index.html#beyond-meat-marketing-projectmysqljoinsubquery",
-    "title": "Projects",
-    "section": "",
-    "text": "This project analyzes YC-backed startups to uncover success patterns. Using a comprehensive dataset (companies, founders, industries, regions, schools), the team designed an ER diagram and relational data model to map relationships. SQL queries revealed that 71% of startups remain active, with Consumer, Fintech, and AI industries leading. Stanford University and tech giants like Google dominate founder backgrounds. Insights suggest YC prioritize North America, India, and UK startups, and invest in founders from top schools and tech firms to boost survival rates, offering valuable data for investors and market researchers.\nCheck out this analysis I performed by following the link here."
   },
   {
     "objectID": "projects/Beyond Meat MKT Proj/index.html#click-the-report-button-for-more-details.-thank-you",
@@ -427,16 +112,16 @@
     "text": "Click the “report” button for more details. Thank you!"
   },
   {
-    "objectID": "projects/Statistic Data Analysis/index.html#for-more-detail-information-please-click-projectcode-slides-and-report-to-check.",
-    "href": "projects/Statistic Data Analysis/index.html#for-more-detail-information-please-click-projectcode-slides-and-report-to-check.",
-    "title": "Statistical Data Analysis Project",
-    "section": "For more detail information, please click “projectcode” ,“slides” and “report” to check.",
-    "text": "For more detail information, please click “projectcode” ,“slides” and “report” to check."
+    "objectID": "projects/HR Attrition Project/index.html",
+    "href": "projects/HR Attrition Project/index.html",
+    "title": "Employee Retention & Performance Analysis for HR Decision-Making",
+    "section": "",
+    "text": "Finish Date:2024-12-06"
   },
   {
-    "objectID": "projects/Statistic Data Analysis/index.html#thank-you",
-    "href": "projects/Statistic Data Analysis/index.html#thank-you",
-    "title": "Statistical Data Analysis Project",
+    "objectID": "projects/HR Attrition Project/index.html#thank-you",
+    "href": "projects/HR Attrition Project/index.html#thank-you",
+    "title": "Employee Retention & Performance Analysis for HR Decision-Making",
     "section": "Thank You!!",
     "text": "Thank You!!"
   }
