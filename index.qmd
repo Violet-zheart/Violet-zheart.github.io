@@ -9,7 +9,7 @@ about:
       href: https://www.linkedin.com/in/violetzhaoxr/
     - icon: file
       text: Resume
-      href: https://drive.google.com/file/d/1QyqY4OnomNqr1lb3VwSL06C3PB7G67KW/view?usp=sharing
+      href: https://drive.google.com/file/d/1ApZeLF9g7D3YLuHy35raUwdtBLQqw_5W/view?usp=sharing
 ---
 
 
