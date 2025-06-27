@@ -24,9 +24,12 @@ Sun Country Airlines, a regional carrier, is at a pivotal stage in its developme
 
 The existing data was from January 2013 to December 2014, including Ufly Reward program database, TSA (Transportation Security Administration) flight records, transaction-level data, etc. There were 37 columns and 26575 rows, which is enough to conduct our analysis with higher accuracy. The methods we use are Cluster Analysis with K-means and Visualization with Excel, Python and Power BI. Cluster Analysis can help to cluster customers into diBerent groups with similarities, so that we can develop insights to specific market segments, through which we can achieve Precision Marketing. Visualization can be a direct way with charts or graphs to help analysts to describe and compare segments, getting marketing recommendations or insights.
 
-# Clustring
+# Visualization
 
-![Clustring Graph](images/cluster.png)
+![a](images/cluster.png)
+![b](images/s1.png)
+![c](images/s2.png)
+![d](images/s3.png)
 
 ## For more detail information, please click "report" to check.
 

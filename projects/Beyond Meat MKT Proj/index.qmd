@@ -16,14 +16,12 @@ about:
 ---
 Finish Date:2024-11-27
 
-# Table of contents
+# Analysis
 
-1. Introduction
-2. Marketing Situation Analysis
-3. Marketing Issue Identification
-4. Identification of Possible Solutions
-5. Evaluation and Choice of Solution
-6. Outline of Action Plan to Implement a Solution
-7. Attachments
+![a](images/b1.png)
+![b](images/b2.png)
+![c](images/b3.png)
+![c](images/b4.png)
+
 
 ## Click the "report" button for more details. Thank you!

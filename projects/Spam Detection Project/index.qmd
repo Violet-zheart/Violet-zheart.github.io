@@ -33,7 +33,7 @@ We evaluate model performance using metrics such as accuracy, precision, recall,
 
 ![Key Variables and Description](images/key_variables.png)
 
-<!-- # Word Cloud
+# Word Cloud
 
 ![Spam Word Cloud](images/spamWC.png)
 

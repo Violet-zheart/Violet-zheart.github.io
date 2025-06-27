@@ -29,6 +29,12 @@ This project explores Y Combinator’s startup ecosystem through a detailed data
 
 ![Content of Analysis](images/analysis.png)
 
+
+![Company Status](images/y1.png)
+
+
+![Education](images/y2.png)
+
 ## For more detail information, please click "datasource" and "slides" button to check.
 
 ## Thank You!!

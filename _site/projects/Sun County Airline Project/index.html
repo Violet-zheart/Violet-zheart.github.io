@@ -114,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
   <li><a href="#description-of-dataset-and-methods" id="toc-description-of-dataset-and-methods" class="nav-link" data-scroll-target="#description-of-dataset-and-methods">Description of dataset and methods</a></li>
-  <li><a href="#clustring" id="toc-clustring" class="nav-link" data-scroll-target="#clustring">Clustring</a>
+  <li><a href="#visualization" id="toc-visualization" class="nav-link" data-scroll-target="#visualization">Visualization</a>
   <ul class="collapse">
   <li><a href="#for-more-detail-information-please-click-report-to-check." id="toc-for-more-detail-information-please-click-report-to-check." class="nav-link" data-scroll-target="#for-more-detail-information-please-click-report-to-check.">For more detail information, please click “report” to check.</a></li>
   <li><a href="#thank-you" id="toc-thank-you" class="nav-link" data-scroll-target="#thank-you">Thank You!!</a></li>
@@ -156,14 +156,9 @@ ul.task-list li input[type="checkbox"] {
 <h1>Description of dataset and methods</h1>
 <p>The existing data was from January 2013 to December 2014, including Ufly Reward program database, TSA (Transportation Security Administration) flight records, transaction-level data, etc. There were 37 columns and 26575 rows, which is enough to conduct our analysis with higher accuracy. The methods we use are Cluster Analysis with K-means and Visualization with Excel, Python and Power BI. Cluster Analysis can help to cluster customers into diBerent groups with similarities, so that we can develop insights to specific market segments, through which we can achieve Precision Marketing. Visualization can be a direct way with charts or graphs to help analysts to describe and compare segments, getting marketing recommendations or insights.</p>
 </section>
-<section id="clustring" class="level1">
-<h1>Clustring</h1>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/cluster.png" class="img-fluid figure-img"></p>
-<figcaption>Clustring Graph</figcaption>
-</figure>
-</div>
+<section id="visualization" class="level1">
+<h1>Visualization</h1>
+<p><img src="images/cluster.png" class="img-fluid" alt="a"> <img src="images/s1.png" class="img-fluid" alt="b"> <img src="images/s2.png" class="img-fluid" alt="c"> <img src="images/s3.png" class="img-fluid" alt="d"></p>
 <section id="for-more-detail-information-please-click-report-to-check." class="level2">
 <h2 data-anchor-id="for-more-detail-information-please-click-report-to-check.">For more detail information, please click “report” to check.</h2>
 </section>
@@ -267,7 +262,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/Violet-zheart\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

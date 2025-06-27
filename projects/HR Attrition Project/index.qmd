@@ -36,11 +36,13 @@ This study utilizes the IBM HR Analytics Employee Attrition & Performance datase
 
 # Visualizations
 
-![Key Variables and Description1](images/H1.png)
-![Key Variables and Description1](images/H2.png)
-![Key Variables and Description1](images/H3.png)
+![a](images/H1.png)
+![b](images/H2.png)
+![c](images/H3.png)
 
+## For more detail information, please click button at the bottum to check.
 
+## Thank You!!
 
 
 

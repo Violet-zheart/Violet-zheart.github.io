@@ -114,7 +114,11 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
   <li><a href="#data-overview" id="toc-data-overview" class="nav-link" data-scroll-target="#data-overview">Data Overview</a></li>
-  <li><a href="#visualizations" id="toc-visualizations" class="nav-link" data-scroll-target="#visualizations">Visualizations</a></li>
+  <li><a href="#visualizations" id="toc-visualizations" class="nav-link" data-scroll-target="#visualizations">Visualizations</a>
+  <ul class="collapse">
+  <li><a href="#for-more-detail-information-please-click-button-at-the-bottum-to-check." id="toc-for-more-detail-information-please-click-button-at-the-bottum-to-check." class="nav-link" data-scroll-target="#for-more-detail-information-please-click-button-at-the-bottum-to-check.">For more detail information, please click button at the bottum to check.</a></li>
+  <li><a href="#thank-you" id="toc-thank-you" class="nav-link" data-scroll-target="#thank-you">Thank You!!</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -155,9 +159,15 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="visualizations" class="level1">
 <h1>Visualizations</h1>
-<p><img src="images/H1.png" class="img-fluid" alt="Key Variables and Description1"> <img src="images/H2.png" class="img-fluid" alt="Key Variables and Description1"> <img src="images/H3.png" class="img-fluid" alt="Key Variables and Description1"></p>
+<p><img src="images/H1.png" class="img-fluid" alt="a"> <img src="images/H2.png" class="img-fluid" alt="b"> <img src="images/H3.png" class="img-fluid" alt="c"></p>
+<section id="for-more-detail-information-please-click-button-at-the-bottum-to-check." class="level2">
+<h2 data-anchor-id="for-more-detail-information-please-click-button-at-the-bottum-to-check.">For more detail information, please click button at the bottum to check.</h2>
+</section>
+<section id="thank-you" class="level2">
+<h2 data-anchor-id="thank-you">Thank You!!</h2>
 
 
+</section>
 </section>
 </main> 
     <div class="about-footer"><div class="about-links">
@@ -261,7 +271,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/Violet-zheart\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
